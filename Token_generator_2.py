@@ -1,4 +1,4 @@
-"""token generator script for lucky unicorn version 1"""
+"""token generator script for lucky unicorn version 2"""
 
 import random
 
